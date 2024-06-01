@@ -6,8 +6,8 @@
 - l'admin : il ajoute, supprime, modifier, archive... une formation, une ecole, il modere le forum. et il actualise le classement(ou pas) 
 
 # Les classes:
- [ ] Utilisateur(lecteur, admin, expert, etudiant)
- [ ] L'ecole(Universite, Institut, ecole de formation)
+[ ] Utilisateur(lecteur, admin, expert, etudiant)
+[ ] L'ecole(Universite, Institut, ecole de formation)
  [ ] Programme d'etudes(bachelor, licence, mini master, master, doctorat)
  [ ] Cours dispensee(les cours dispenses)
  [ ] Score de programme(le score attribué a un programme d'etudes)
