@@ -16,10 +16,10 @@
 
 # to do :
 - [ ] renomer 'inscrie' a 'interer'
-- [ ]etablier une relation entre le score et celui qui le donne,
-- [ ]detailler le use case generale de telle sorte qu'on voit ce qui est creer ou lister.
-- [ ]faire le planning
-- [ ]creer le depot github
-- [ ]choix des technos 
-- [ ]creer un ficher google docs pour partager les diagrammes avec le prof \
+- [ ] etablier une relation entre le score et celui qui le donne,
+- [ ] detailler le use case generale de telle sorte qu'on voit ce qui est creer ou lister.
+- [ ] faire le planning
+- [ ] creer le depot github
+- [ ] choix des technos 
+- [ ] creer un ficher google docs pour partager les diagrammes avec le prof \
 - [x] test
