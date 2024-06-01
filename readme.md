@@ -6,20 +6,20 @@
 - l'admin : il ajoute, supprime, modifier, archive... une formation, une ecole, il modere le forum. et il actualise le classement(ou pas) 
 
 # Les classes:
- [ ] Utilisateur(lecteur, admin, expert, etudiant)
- [ ] L'ecole(Universite, Institut, ecole de formation)
- [ ] Programme d'etudes(bachelor, licence, mini master, master, doctorat)
- [ ] Cours dispensee(les cours dispenses)
- [ ] Score de programme(le score attribué a un programme d'etudes)
- [ ] score d'ecole 
- [ ] Accreditation(ANAQ-SUP / CAMES)
+- [ ] Utilisateur(lecteur, admin, expert, etudiant)
+- [ ] L'ecole(Universite, Institut, ecole de formation)
+- [ ] Programme d'etudes(bachelor, licence, mini master, master, doctorat)
+- [ ] Cours dispensee(les cours dispenses)
+- [ ] Score de programme(le score attribué a un programme d'etudes)
+- [ ] score d'ecole 
+- [ ] Accreditation(ANAQ-SUP / CAMES)
 
 # to do :
-- renomer 'inscrie' a 'interer'
-- etablier une relation entre le score et celui qui le donne,
-- detailler le use case generale de telle sorte qu'on voit ce qui est creer ou lister.
-- faire le planning
-- creer le depot github
-- choix des technos 
-- creer un ficher google docs pour partager les diagrammes avec le prof \
-[x] test
+- [ ] renomer 'inscrie' a 'interer'
+- [ ]etablier une relation entre le score et celui qui le donne,
+- [ ]detailler le use case generale de telle sorte qu'on voit ce qui est creer ou lister.
+- [ ]faire le planning
+- [ ]creer le depot github
+- [ ]choix des technos 
+- [ ]creer un ficher google docs pour partager les diagrammes avec le prof \
+- [x] test
