@@ -2,3 +2,10 @@
 .vscode
 .idea
 *.ini
+# Windows hidden system files
+desktop.ini
+Thumbs.db
+# Optional: Ignore massive Word/Excel documents if they don't belong in source control
+*.docx
+*.xlsx
+*.pdf
